@@ -8,6 +8,3 @@ Produk SIG pada dasarnya dibagi menjadi dua kategori, berdasarkan tingkat akuras
 
 Compliant Procuct, produk software yang sesuai dengan OpenGIS Specification.Ketikan proses verifikasi dan ujicoba dilakukan melalui OGC Testing Program, maka secara otomatis produk tersebut akan terdaftar sebagai “compliant” atau memenuhi prosedur yang telah ditetapkan oleh OGC.
 Implementing Product, produk software yang mengimplementasikan OpenGIS Specification namun belum melewati test kelayakan/ compliance test.
-OGC Standar
-
-Gambar Alur OGC Standar
